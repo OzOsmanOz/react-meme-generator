@@ -1,0 +1,43 @@
+.button-component-img img{
+    height: 350px;
+    width: 100%;
+}
+
+.button-component button{
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+}
+
+.button-component input{
+    border: 1px solid rgb(199, 196, 196);
+}
+
+.button-component-btn:hover{
+    background: #A818DA !important;
+    font-weight: bold;
+    border: 1px solid white;
+}
+
+::placeholder{
+    font-size: 13px;
+    padding-left: 5px;
+}
+
+.button-component-img{
+    position: relative;
+}
+
+.top-text{
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    font-size: 52px !important;
+    font-family: 'Creepster', cursive !important;
+    
+}
+.bottom-text{
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    font-size: 52px !important;   
+    font-family: 'Creepster', cursive !important;
+}
