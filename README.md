@@ -4,9 +4,6 @@ https://user-images.githubusercontent.com/107813778/206448125-9abf7661-76b5-44d4
 ![cssicon](https://user-images.githubusercontent.com/107813778/206448346-6856da6e-b16e-4195-a9e8-6e4988124ffe.png)
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
